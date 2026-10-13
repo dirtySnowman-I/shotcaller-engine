@@ -9,7 +9,7 @@ The demo deliberately restarts the server in the middle of a conflict. A private
 Requires **Node.js 24.14+**. No runtime dependencies, external services, credentials, or assets are needed for the demo.
 
 ```bash
-git clone https://github.com/ella4moon/shotcaller-engine.git
+git clone https://github.com/dirtySnowman-I/shotcaller-engine.git
 cd shotcaller-engine
 npm ci
 npm test
